@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" height="100%">
+  <defs>
+    <!-- Canonical Chroma Spectrum Gradient -->
+    <linearGradient id="prismaticLipChroma" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e7c878"/>
+      <stop offset="25%" stop-color="#f2a0c7"/>
+      <stop offset="50%" stop-color="#d878a5"/>
+      <stop offset="75%" stop-color="#8c6cff"/>
+      <stop offset="100%" stop-color="#63d2d0"/>
+    </linearGradient>
+
+    <!-- Deep Multi-Stage Neon Glow -->
+    <filter id="prismaticGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="10" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g filter="url(#prismaticGlow)">
+    <!-- UPPER LIP SILHOUETTE -->
+    <path d="
+      M 45,135
+      C 62,112 95,84 135,70
+      C 152,64 172,72 188,80
+      C 196,84 204,84 212,80
+      C 228,72 248,64 265,70
+      C 305,84 338,112 355,135
+      C 325,128 288,102 245,100
+      C 222,99 208,115 200,116
+      C 192,115 178,99 155,100
+      C 112,102 75,128 45,135 Z"
+      fill="rgba(216, 120, 165, 0.16)"
+      stroke="url(#prismaticLipChroma)"
+      stroke-width="3"
+      stroke-linejoin="round" />
+
+    <!-- LOWER LIP SILHOUETTE -->
+    <path d="
+      M 52,148
+      C 90,140 138,126 200,126
+      C 262,126 310,140 348,148
+      C 322,185 272,212 200,212
+      C 128,212 78,185 52,148 Z"
+      fill="rgba(216, 120, 165, 0.12)"
+      stroke="url(#prismaticLipChroma)"
+      stroke-width="3"
+      stroke-linejoin="round" />
+
+    <!-- INNER APERTURE & CREASE SPLIT -->
+    <path d="
+      M 48,142
+      C 92,130 142,118 200,122
+      C 258,118 308,130 352,142"
+      fill="none"
+      stroke="url(#prismaticLipChroma)"
+      stroke-width="2.5"
+      stroke-linecap="round"
+      opacity="0.9" />
+
+    <!-- UPPER LIP PRINT TEXTURE & VERTICAL FISSURES -->
+    <path d="
+      M 102,95 C 104,103 105,108 107,114
+      M 130,80 C 132,90 133,96 135,105
+      M 158,74 C 159,84 160,92 161,100
+      M 182,78 C 182,86 181,92 181,100
+      M 218,78 C 218,86 219,92 219,100
+      M 242,74 C 241,84 240,92 239,100
+      M 270,80 C 268,90 267,96 265,105
+      M 298,95 C 296,103 295,108 293,114"
+      stroke="url(#prismaticLipChroma)"
+      stroke-width="1.8"
+      stroke-linecap="round"
+      opacity="0.75" />
+
+    <!-- LOWER LIP PRINT TEXTURE & VERTICAL FISSURES -->
+    <path d="
+      M 98,154 C 102,162 105,170 110,176
+      M 128,150 C 131,162 134,175 138,188
+      M 162,146 C 163,160 164,176 165,196
+      M 200,145 C 200,160 200,178 200,198
+      M 238,146 C 237,160 236,176 235,196
+      M 272,150 C 269,162 266,175 262,188
+      M 302,154 C 298,162 295,170 290,176"
+      stroke="url(#prismaticLipChroma)"
+      stroke-width="1.8"
+      stroke-linecap="round"
+      opacity="0.75" />
+  </g>
+</svg>
