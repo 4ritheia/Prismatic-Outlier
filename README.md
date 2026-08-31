@@ -1,5 +1,12 @@
-# Prismatic Outlier
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&size=34&pause=1000&color=F7F7F7&width=435&lines=Welcome!;I'm+glad+to+see+you+here.+;Thank+you+for+reading;Reach+out+anytime+%E2%A4%B5%EF%B8%8E+%E2%98%95%EF%B8%8F;Collaborations%2C;Contributions%2C+Inquiry%3F;I'm+here.;Enter+%40+Aritheia's+Space.)](https://git.io/typing-svg)
 
+<div align="center">
+  <a href="mailto:enter@aritheia.space?subject=Coffee%20%26%20Conversation">
+    <img src="https://img.shields.io/badge/Care%20to%20have%20coffee%3F-enter%40aritheia.space-111111?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" alt="Coffee Email">
+  </a>
+</div>
+
+# Prismatic Outlier
 ### Sovereign Architecture for Non-Linear Minds
 
 **Prismatic Outlier** is an evolving cognitive architecture exploring how nonlinear, divergent minds can convert complex cognition into coherent, usable action **without requiring to flatten themselves**.
