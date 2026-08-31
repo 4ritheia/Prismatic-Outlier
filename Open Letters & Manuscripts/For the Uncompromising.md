@@ -6,7 +6,7 @@ Authority without an internal architecture leads to exhaustion. You are expected
 
 Many sovereigns fall into the trap of becoming human shock absorbers. They absorb friction, resolve operational chaos, and compensate for system gaps through sheer force of will. But willpower is a non-renewable daily asset. If your personal energy is the only thing keeping your ecosystem from falling apart, you haven't built a system—you've built a high-stakes cage.
 
-> *“Do not metabolize problems for others if you cannot hold yourself first.”
+> _“Do not metabolize problems for others if you cannot hold yourself first.”_
 
 True sovereignty requires building an internal perimeter first. It is the capacity to remain unflappable not by suppressing chaos, but by establishing unshakeable structural reference points that govern your response under load.
 
