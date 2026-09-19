@@ -17,7 +17,7 @@ The project began as an exploration of executive function without burnout and ha
 
 ## Key Distinctions:
 
-- **Beyond Hacks**: If standard productivity tricks haven’t worked, this book is for you. Never feel micromanaged again 
+- **Beyond Hacks**: If standard productivity tricks haven’t worked, this book is for you. Never feel micromanaged again.
 - **Systems Thinking**: Learn to understand the ecosystems around you and install your own adaptive breathing system.   
 - **Structural Integrity**: make your ideas survive pressure. This book shows you how to build concepts with durability.  
 - **Identity Liberation**: Break beliefs and identities that aren’t truly yours.  
@@ -29,7 +29,6 @@ The project began as an exploration of executive function without burnout and ha
 - **Timeless Voice**: Make your voice sustainable enough to endure beyond immediate contexts.
 - **Room Awareness**: Become someone who understands the room best — situational intelligence that commands respect.  
 
----
 
 ## The Core Idea
 
