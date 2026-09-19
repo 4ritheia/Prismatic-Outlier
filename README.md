@@ -15,6 +15,20 @@ The project began as an exploration of executive function without burnout and ha
 
 > **What architecture allows divergent cognition to converge without flattening its differences?**
 
+## Key Distinctions:
+
+- **Beyond Hacks**: If standard productivity tricks haven’t worked, this book is for you. Never feel micromanaged again 
+- **Systems Thinking**: Learn to understand the ecosystems around you and install your own adaptive breathing system.   
+- **Structural Integrity**: make your ideas survive pressure. This book shows you how to build concepts with durability.  
+- **Identity Liberation**: Break beliefs and identities that aren’t truly yours.  
+- **Finite Energy Boundaries**: Build boundaries around your limited energy, and route it toward what’s worth your time.  
+- **Critical Thinking Habits**: Develop exceptional habits of interrogation and synthesis, not just memory that calcifies.  
+- **Pattern Recognition**: Train your ability to see recurring structures.  
+- **Context Matching**: Learn to align latent intelligence with the right environment.  
+- **Agency Over Discipline**: This book doesn’t demand focus or discipline for its own sake. It teaches ownership of agency and recognition of your own excuses or attacks against you. 
+- **Timeless Voice**: Make your voice sustainable enough to endure beyond immediate contexts.
+- **Room Awareness**: Become someone who understands the room best — situational intelligence that commands respect.  
+
 ---
 
 ## The Core Idea
@@ -26,13 +40,13 @@ Prismatic Outlier treats cognition as a **routable ecosystem rather than a linea
 * **D.Vent (Decompression & Defragmentation Vent)** — Externalizes cognitive load to clear the active processing field.
 * **Shadow Engineering** — Examines and works directly with difficult, suppressed, or structurally inconvenient material rather than designing around it.
 * **Meta-Cognitive Remodeling** — Restructures the mental models through which information is interpreted and processed.
-* **Load-Bearing Anchorage** — Stress-tests whether an intervention actually bears against the real problem.
+* **Structural Integrity** — Stress-tests whether an intervention actually bears against the real problem.
 * **The Velocity Fallacy** — Challenges the assumption that faster movement inherently produces greater progress, value, or effectiveness.
 * **The Rupture Point** — Marks the failure of an inherited or existing frame when it can no longer adequately explain observed reality.
 * **Identity Calcification** — Examines the hardening of identity into a fixed structure that constrains further adaptation, revision, or movement.
 * **The Sovereignty Axis** — A dynamic save-state and recalibration point for returning to core jurisdiction.
 * **Anchor Points** — Stable coordinates used as retrieval keys, save states, boundaries, waypoints, and re-entry points while surrounding material changes.
-* **Baby's Spine Framework** — Returns complexity to its minimum load-bearing structure so it can be rebuilt outward without losing its core.
+* **Baby's Spine Framework** — Returns complexity to its minimum structure so it can be rebuilt outward without losing its core.
 * **Cogitation Strata** — Maps cognition according to the accessibility and depth of active material.
 * **Recursive Entropy Sort (RES)** — Recursively organizes raw material into evolving structure as each new frame exposes further material.
 * **Prismatic Synthesis** — Examines complex material through multiple perspectives before convergence.
